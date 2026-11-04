@@ -2,6 +2,16 @@
 
 本仓库归档个人训练、推理与后期制作成果。整理日期：2026-11-04。
 
+## 下载完整成果
+
+请从 [V14 最终成果发布页](https://github.com/Saeki-Rio/Voice-Simulating/releases/tag/v14-final-20261104) 下载 **Ayane-Voice-Results-20261104.zip**（约 195 MiB，162 个文件）。
+
+[直接下载成果 ZIP](https://github.com/Saeki-Rio/Voice-Simulating/releases/download/v14-final-20261104/Ayane-Voice-Results-20261104.zip)
+
+SHA-256：`d4dec5e1ed659404655c52c261ca22ad36a4702ea6f039aa2c5f5d05d44e55b3`
+
+完整音频和制作文件保存在 Release 附件内，下文路径均指解压后的成果目录。仓库 Code 页面及 GitHub 自动生成的 Source code ZIP 仅包含说明文件。
+
 ## 最终成品
 
 `audio/` 包含 V14 完整歌曲 WAV、320 kbps MP3、独立人声和独立伴奏。
